@@ -6,7 +6,7 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-using System.Globalization;
+// using System.Globalization;
 
 string [] array_initial = new string [5] {"1235","3467","873","99","0076"};
 string [] alter_array = new string[5];
